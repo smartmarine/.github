@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smart-marine&label=Profile%20views&color=0e75b6&style=flat" alt="smart-marine" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smart-marine&label=Profile%20views&color=0e75b6&style=flat" alt="smart-marine" /> </p>
 
 # .Who we are
 Smart Marine is building the future of maritime mobility. We’re bringing innovations to marine navigation with data-driven intelligence, autonomy, and connectivity. We build autonomous management and control technology. We – as of Smart Marine - design and manufacture wide range of customer centric products, which are unique in their quality and sophistication in the marine marketplace. We create state-of-the-art technologies to ensure our clients have datas they care about. Whereever our customers are, we create a world of data without limits.
